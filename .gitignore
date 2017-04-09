@@ -1,0 +1,6 @@
+.idea/
+*.class
+*.js
+*.iml
+*.html
+target/
