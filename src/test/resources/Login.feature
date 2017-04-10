@@ -48,13 +48,8 @@ Background: Implement the common steps
 #    When I enter "<username>" and "<password>"
 #    And I click the login button
 #    Then I ses apps message or invalid message
-#
-#
-#    Examples:
-#      | username | password |
-#      | go2automationclass@gmail.com | Pass2016 |
-#      | go2automationclass@gmail.com | Pass2017 |
-#      | automationclass@gmail.com    | Pass2016 |
+
+
 
 
 
